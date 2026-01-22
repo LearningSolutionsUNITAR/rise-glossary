@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastModified": "2026-01-21T18:09:14.239Z",
+    "totalTerms": 3
+  },
+  "settings": {
+    "caseSensitive": false,
+    "highlightColor": "#007bff",
+    "animationDuration": 300,
+    "popupPosition": "auto",
+    "mobileBreakpoint": 768
+  },
+  "terms": [
+    {
+      "id": "term-mkoc25ygwmzoda5oz6a",
+      "word": "Intersectionality",
+      "definition": "Intersectionality explains how different aspects of a person’s identity and context (such as gender, age, disability, income, ethnicity, or migration status) can combine to shape their experiences, opportunities, and barriers. It helps us see how disadvantage or exclusion can be compounded, not added separately.",
+      "image": "",
+      "link": "",
+      "tags": [],
+      "caseSensitive": false,
+      "enabled": true,
+      "dateCreated": "2026-01-21T18:05:01.480Z",
+      "dateModified": "2026-01-21T18:05:01.480Z"
+    },
+    {
+      "id": "term-mkoc31yflp075pa526d",
+      "word": "Discrimination",
+      "definition": "Discrimination is unfair or unequal treatment that limits a person’s rights, opportunities, or access to services. It can be direct (explicit), indirect (through rules that disadvantage some groups), or compounded when multiple factors overlap.",
+      "image": "",
+      "link": "",
+      "tags": [],
+      "caseSensitive": false,
+      "enabled": true,
+      "dateCreated": "2026-01-21T18:05:42.951Z",
+      "dateModified": "2026-01-21T18:05:42.951Z"
+    },
+    {
+      "id": "term-mkoc6pogsctfunabwil",
+      "word": "Inclusivity Lenses",
+      "definition": "Inclusivity lenses are practical questions that help you design and deliver training so that different groups can access, participate, and benefit. In this course, the five lenses are: Power Dynamics, Access, Participation, Dignity, and Impact & Do No Harm.",
+      "image": "",
+      "link": "https://www.flipsnack.com/unitarcatalogue/inclusivity-framework-for-training-programmes_-accessible",
+      "tags": [],
+      "caseSensitive": false,
+      "enabled": true,
+      "dateCreated": "2026-01-21T18:08:33.664Z",
+      "dateModified": "2026-01-21T18:08:33.664Z"
+    }
+  ]
+}
